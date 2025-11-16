@@ -1,4 +1,4 @@
-## Hola soy duardo 👋
+## Hola soy Eduardo 👋
 
 ## 💻 Tecnologias e intereses 
 * 🧠 Lenguaje: C
