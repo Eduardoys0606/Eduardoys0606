@@ -1,10 +1,10 @@
-## Hi there i am Eduardo 👋
+## Hola soy duardo 👋
 
-## 💻 Technologies and interests 
+## 💻 Tecnologias e intereses 
 * 🧠 Lenguaje: C
-* ⚙️ Areas: Basic web development and networks
-* 🔥 Aprendiendo: Git, lenguaje C and programming fundamentals
-* 🏀 Extra: Basketball player
+* ⚙️ Areas: Desarrollo de web básico y automatización 
+* 🔥 Aprendiendo: Git, lenguaje C y fundamentos de programación
+* 🏀 Extra: Jugador de básquetbol
 
 <!--
 **Eduardoys0606/Eduardoys0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
