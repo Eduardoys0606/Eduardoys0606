@@ -1,4 +1,6 @@
 ## Hola soy Eduardo👋
+Bienvenido a mi Github 
+Te invito a revisar mi perfil, soy un apasionado del deporte y  de la musica.
 
 ## 💻 Tecnologías e intereses 
 * 🧠 Lenguaje: C
