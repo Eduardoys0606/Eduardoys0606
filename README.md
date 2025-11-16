@@ -1,4 +1,4 @@
-## Hola soy 👋
+## Hola soy Eduardo👋
 
 ## 💻 Tecnologias e intereses 
 * 🧠 Lenguaje: C
