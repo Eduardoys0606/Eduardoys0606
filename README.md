@@ -6,6 +6,12 @@
 * 🔥 Aprendiendo: Git, lenguaje C y fundamentos de programación
 * 🏀 Extra: Jugador de básquetbol
 
+## 🎯 Metas academicas y profesionales 
+* Dominar las bases 🧠 y aprender tecnologías nuevas sin parar 🚀
+* 📚 Especializarme en una area clave (Ciberseguridad)
+* 💼 Encontrar un buen trabajo donde tenga un buen puesto
+* 
+
 <!--
 **Eduardoys0606/Eduardoys0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
